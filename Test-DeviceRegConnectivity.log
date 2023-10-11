@@ -1,0 +1,9 @@
+===========================================================================
+===========================================================================
+[2022-03-01 17:55:09.328] [INFO] Test-DeviceRegConnectivity 3.1 has started
+[2022-03-01 17:55:09.342] [INFO] Device Name : DP5540-2QY8Q13
+[2022-03-01 17:55:10.512] [INFO] User Account: jlwarranty\kevin, UPN: kevin@jlwarranty.com
+[2022-03-01 17:55:10.529] [INFO] Testing Internet Connectivity...
+[2022-03-01 17:55:10.535] [INFO] Checking winHTTP proxy settings...
+[2022-03-01 17:55:10.765] [INFO]       Access Type : DIRECT
+[2022-03-01 17:55:10.771] [INFO] Checking winInet proxy settings...
